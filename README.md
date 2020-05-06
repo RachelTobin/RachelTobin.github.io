@@ -1,4 +1,4 @@
-# Rachel Tobin CIT 281 [link](github.com/RachelTobin/RachelTobin.github.io/"Rachel's Github Page")
+# Rachel Tobin CIT 281 [link](github.com/RachelTobin/RachelTobin.github.io/)
 ---
 ## 281 Project 3 Learning Objectives
 * A web API or Application Programming Interface is an API
