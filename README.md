@@ -1,6 +1,6 @@
-#[Rachel Tobin CIT 281](github.com/RachelTobin/RachelTobin.github.io/"Rachel's Github Page")
+#Rachel Tobin CIT 281 [link](github.com/RachelTobin/RachelTobin.github.io/"Rachel's Github Page")
 ---
-##281 Project 3 Learning Objectives
+####281 Project 3 Learning Objectives
 * A web API or Application Programming Interface is an API
 accessed using the HTTP protocol. Web APIs often deliver data
 formatted as JSON.
@@ -13,7 +13,7 @@ understand how the API works and what it returns.
 * Use jQuery, JavaScript, and public APIs to fetch JSON data, then
 use it to refresh part of a web page
 
-##281 Project 2 Learning Objectives
+###281 Project 2 Learning Objectives
 * A web API or Application Programming Interface is an API accessed using the HHTP protocol
 * Web APIs often deliver data formatted as JSON
 * A web API can be accessed programmatically using JavaScript
