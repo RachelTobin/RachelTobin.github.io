@@ -1,6 +1,12 @@
 # Rachel Tobin CIT 281
 ### [Rachel Tobin's Github User Page](https://racheltobin.github.io)
 ---
+## 382 Cryptographhy Application
+* Created a Javascript Encryption Application on [CodeSandbox](https://codesandbox.io/s/assign03-5duul) using React that allows users to input their own text to be encrypted using the Caesar Encrypt algorithm. 
+* This project helped me gain an understanding and appreciation for cryptography and its real world use cases for secure network communications and applications, like Bitcoin. 
+
+As a developer it was beneficial to learn React as it enabled me to build a reactive application that instantly encrypts the user’s text. 
+
 ## 281 Project 3 Learning Objectives
 * A web API or Application Programming Interface is an API
 accessed using the HTTP protocol. Web APIs often deliver data
